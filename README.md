@@ -8,5 +8,5 @@ This is a simple chatbot apps build with android studio, dialogflow, and firebas
 
 <br>
 <img 
-  width: "500" height="700" text-align=center src="https://user-images.githubusercontent.com/26354086/78665049-697cc680-78ff-11ea-9c5d-66b6a508f74c.png" />
+  width: "500" height="700" text-align="center" src="https://user-images.githubusercontent.com/26354086/78665049-697cc680-78ff-11ea-9c5d-66b6a508f74c.png" />
 <br>

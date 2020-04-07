@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "projectga-41433",
-  "private_key_id": "73176961a809953cdbb62bf3a8801b26b8fc9b0e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6DAexiq2AJNcQ\ngSVetSaDdyKEnIhLPzy+B+bEuhxJyQQTaKloAZtIUAoyuMtgCdFJ6OA8wnrsNs/Y\nu3UoElENdo2HVb+Njm6chOHA3Q1gpDnUZ07BJhjt9YYiyqRrLWvbN39QWwj+lm88\nWA3Cu0sW/D92GHwJORq40OwyLGjM7YKyNXS3LKiftWspEKjL9LUke6CVxuat2Hio\npK4LeEScr5hy8/qfXDwAm19VAH8ogEC1JLfjQKVVRGrXcPudERZ9cVPr2YP1/Hpj\nQfORgqcXqwk69XfFVaPZ13jI1hbsifk0hLpgBq9fg3pGcKxPmQLW4ndxv1bHLPn5\nL84KdDpDAgMBAAECggEAS1W6ucwfVE/WnDLHWJG+3iYcHpmp4Npi9MoLSmbYNJKG\nqXtMebaI09/BOWe1xpZDHowDXOcdUlAhmq/RkV/VXT+/sGjq712Y8Z0nMurv0028\nswMAE1sjZhvw7F6k9FdIoNRYo8exHTH6KfO34r3neo+6/M2OUEfEx8ilk+2CpFPp\nn1vt3kSMp6Q6FJkqxm1BxV41H/ndueUGdUbHnIARPJRiMZkw3jST1MeTCvFp9R33\n2p4jDE07lVMjxTeCZzKi/FjieFztrmltyciFCNA5AGscUlULKZESEyw/o805WeKQ\nkMAm7x27yu8bZQBSz1DYUqwGXkzK9Muri57Vr273gQKBgQDjaPn8qP0chRANZ2xO\n9rtSokdo337Arqt4Y2ifRULTxrWNI3vldBRV4oBk3diwP7q/PqrMTXMdl5K9yzca\naJXWRdpcm040cfsz58gOkCx3zVnw0Xh+Gt348w9RHBz0A/ex+0j9Z5gHPN+Mg4lK\nGj06p3jd8hSGpxUNYGoG6aZKgQKBgQDRb9BatobXXHY+ogg4SRc21PQsTs5qGGeE\n/zE3Q4DnokTlM4JXoZWBpzSgPBCdF+CPa7hhlt71SeW9CeEV024f7MVdH7B27I9Z\nslHUIUAYc0fQGcsFq5CfTwCA2TrL6crivENCxdQn2zoCZQeJuZM3LiZ2e5cGa834\nF8XbXUh6wwKBgQCAiY57XD0syJ1JJkMW4ukAjQ8V3PW1DUWIV5AELk7WiwOFUiAu\nko0H+m2eFbLr9Cmm/VHnBoPhnxHnSxzLRYAjy/nfzDzI8gAN153BdYZc9Oo4bv3P\nMXpzw1bN/rjyx+dSZ3lbGhnZRXQJ5TNNekVPiOeNc85cScZheDSV0a0XgQKBgB8R\nkT0DurkT9E6SRtnirdjqelZgUmqWuDSYjrp9/w9dmQ7PN1S8maskHMBwaJ6FPkDI\nYA/KC8Ujczs5zfQo6zs9KoIIA2uA6DsMIutvC00VPN/4E5ABxXB8jbyPfRNm2TwN\nZYTwR+qpsM9OIXIi313eMMJ+zwaa03EsRaOnEOt1AoGAHDHT4/AiYXwkPNh88aSr\nFqQdbcRtrKEAc350ZKTlbbwDQs2KllzK1nu/kFPBBGY2l0M3rJGsEO1ffYp0KrWB\npP3h7yRLhWflujJfcJzCa6JQi8ejZuRx2j52I2ijUx6Ab6n2wysjlHtXRehKXZDM\nLBvgLsQ8E/0AaLTOMzPSJQ4=\n-----END PRIVATE KEY-----\n",
-  "client_email": "dialogflow-ueieyd@projectga-41433.iam.gserviceaccount.com",
-  "client_id": "118073082839751215304",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ueieyd%40projectga-41433.iam.gserviceaccount.com"
-}
+just create this json with your own in google dialogflow

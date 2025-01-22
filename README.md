@@ -1,3 +1,4 @@
+# DEPRECATED (NOT UPDATING)
 # JuaraCodingAiApps
 simple chatbot for juaracoding bootcamp (prototype)
 
